@@ -7,6 +7,7 @@
 
 * [About the Project](#about-the-project)
 * [Technologies](#technologies)
+* [Content](#content)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -22,7 +23,13 @@ The main purpose of this project is to simulate such situation. Mass is hanging 
 We know the properties of springs and size of elements used to fixate the springs and mass. 
 As the result we can calculate the deformation of springs, forces acting on them and distances from fixating elements.
 
+# Content
+
+
 ![](https://res.cloudinary.com/dlio1dtmu/image/upload/v1598097875/SpringSolver/1_m5l7dt.png)
+
+
+
 
 ![](https://res.cloudinary.com/dlio1dtmu/image/upload/v1598097875/SpringSolver/2_sfp1zw.png)
 
@@ -33,14 +40,14 @@ As the result we can calculate the deformation of springs, forces acting on them
 
 
 <!-- LICENSE -->
-## License
+# License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Mikołaj: mikolaj.waluskiewicz@gmail.com
 
