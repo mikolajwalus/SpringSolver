@@ -1,0 +1,6 @@
+D:\Programowanie\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary\bin\Debug\SpringSolverLibrary.dll
+D:\Programowanie\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary\bin\Debug\SpringSolverLibrary.pdb
+D:\Programowanie\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary\obj\Debug\SpringSolverLibrary.csprojAssemblyReference.cache
+D:\Programowanie\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary\obj\Debug\SpringSolverLibrary.csproj.CoreCompileInputs.cache
+D:\Programowanie\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary\obj\Debug\SpringSolverLibrary.dll
+D:\Programowanie\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary\obj\Debug\SpringSolverLibrary.pdb

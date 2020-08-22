@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringSolver", "SpringSolver\SpringSolver.csproj", "{A718D3E2-C78C-4BAD-A8BF-80A57547540C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringSolverLibrary", "..\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary\SpringSolverLibrary.csproj", "{FC410236-0E3F-4441-A6F4-C70A4B5825E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A718D3E2-C78C-4BAD-A8BF-80A57547540C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A718D3E2-C78C-4BAD-A8BF-80A57547540C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A718D3E2-C78C-4BAD-A8BF-80A57547540C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A718D3E2-C78C-4BAD-A8BF-80A57547540C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC410236-0E3F-4441-A6F4-C70A4B5825E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC410236-0E3F-4441-A6F4-C70A4B5825E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC410236-0E3F-4441-A6F4-C70A4B5825E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC410236-0E3F-4441-A6F4-C70A4B5825E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7CEE35-A508-4F6F-9D0D-F4A6632D6477}
+	EndGlobalSection
+EndGlobal
